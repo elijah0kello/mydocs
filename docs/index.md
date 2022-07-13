@@ -4,9 +4,9 @@
 
 ## Contents
 
-* [Introduction](docs/introduction.md)
-* [DevOps Strategy](docs/strategy.md)
-* [Project layout](docs/layout.md)
+* [Introduction](introduction.md)
+* [DevOps Strategy](strategy.md)
+* [Project layout](layout.md)
 
 # 
     Welcome to Outbox Developer Docs
