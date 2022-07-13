@@ -4,15 +4,9 @@
 
 ## Contents
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-* `MY TEST` - Testing the mardown
+* [Introduction](docs/introduction.md)
+* [DevOps Strategy](docs/strategy.md)
+* [Project layout](docs/layout.md)
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+# 
+    Welcome to Outbox Developer Docs
