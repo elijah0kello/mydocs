@@ -13,7 +13,6 @@
 * [Deploying](./deploy.md)
 * [Monitoring](./monitoring.md)
 
----
 
 ## Introduction.
 
