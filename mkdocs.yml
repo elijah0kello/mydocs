@@ -1,4 +1,4 @@
 site_name: Outbox
 nav:
-  - introduction.md
-  - strategy.md
+  - "Introduction": introduction.md
+  
